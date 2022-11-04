@@ -3,6 +3,7 @@
 Проект был создан в декабре 2020 года
 
 Windows Forms App
+
 Визуализирует граф по заданному числу вершин и весам ребер между ними
 
 <img src="https://user-images.githubusercontent.com/71354878/200002036-e18c1a3b-fea8-4cf2-806e-b9c03c8f43b6.png" alt="drawing" style="width:65%;"/>
